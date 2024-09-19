@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper {
+    width: 100%;
+    background: dodgerblue;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px
+}
+.blue {
+    width: 100px;
+    height: 400px;
+    background-color: blue;
+}
+.white {
+    width: 50px;
+    height: 400px;
+    background-color: #fff;
+}
